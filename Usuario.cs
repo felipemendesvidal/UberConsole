@@ -3,8 +3,8 @@ namespace uberConsole
     public class Usuario
     {
         public string Nome {get; set;}
-        public string login = "felipe@gmail.com";
-        public string senha = "1234";
+        public string login;
+        public string senha;
         public string Foto {get; set;}
         public string LocalizacaoAtual{get; set;}
         public string TokenLogin{get; set;}
