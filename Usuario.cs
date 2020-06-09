@@ -18,7 +18,7 @@ namespace uberConsole
         /// <returns>retorna em = TokenLogin = "senha ok";</returns>
         public bool Login(string loginAtributo, string senhaAtributo){
             if(this.login == loginAtributo && this.senha == senhaAtributo){
-                TokenLogin = "senha ok";
+                TokenLogin = "senha verificada com sucesso";
                 return true;
             }
             return false;

@@ -10,7 +10,7 @@ namespace uberConsole
             return "Procurando motorista disponiveis....";
         }
         public string Pagar(string statusCorrida){
-            if(statusCorrida == "finalizada"){
+            if(statusCorrida == "fim"){
                 return "pagamento feito";
             }
             return "pagamento pendente, corrida não finalizada";
