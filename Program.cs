@@ -24,6 +24,34 @@ namespace uberConsole
             }else{
                 Console.WriteLine("deslogado");
             }
+            Console.WriteLine("\n");
+            
+            //passageiro
+            Passageiro pessoa = new Passageiro();
+
+            if(user.TokenLogin == "senha ok" ){
+                Console.WriteLine("O que deseja fazer: P(Procurar Motorista) S(sair)");
+                string resposta = Console.ReadLine();
+
+                //switc analise da resposta
+                switch(resposta){
+                    case "P": 
+                        Console.WriteLine(pessoa.SolicitarMotorista());
+                    break;
+
+                    case "S":
+                        Console.WriteLine("testando funciona");
+                    break;
+                    default:
+                        Console.WriteLine("opção invalida, finalizando ...");
+                    break;
+                }
+                //fim swic
+                
+
+            }else{
+                Console.WriteLine("teste2");
+            }
 
         }
     }
