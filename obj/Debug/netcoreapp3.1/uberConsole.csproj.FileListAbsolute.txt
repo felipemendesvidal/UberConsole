@@ -1,0 +1,13 @@
+C:\Users\Phellipe\Desktop\senai\c#\uberConsole\bin\Debug\netcoreapp3.1\uberConsole.exe
+C:\Users\Phellipe\Desktop\senai\c#\uberConsole\bin\Debug\netcoreapp3.1\uberConsole.deps.json
+C:\Users\Phellipe\Desktop\senai\c#\uberConsole\bin\Debug\netcoreapp3.1\uberConsole.runtimeconfig.json
+C:\Users\Phellipe\Desktop\senai\c#\uberConsole\bin\Debug\netcoreapp3.1\uberConsole.runtimeconfig.dev.json
+C:\Users\Phellipe\Desktop\senai\c#\uberConsole\bin\Debug\netcoreapp3.1\uberConsole.dll
+C:\Users\Phellipe\Desktop\senai\c#\uberConsole\bin\Debug\netcoreapp3.1\uberConsole.pdb
+C:\Users\Phellipe\Desktop\senai\c#\uberConsole\obj\Debug\netcoreapp3.1\uberConsole.csprojAssemblyReference.cache
+C:\Users\Phellipe\Desktop\senai\c#\uberConsole\obj\Debug\netcoreapp3.1\uberConsole.csproj.CoreCompileInputs.cache
+C:\Users\Phellipe\Desktop\senai\c#\uberConsole\obj\Debug\netcoreapp3.1\uberConsole.AssemblyInfoInputs.cache
+C:\Users\Phellipe\Desktop\senai\c#\uberConsole\obj\Debug\netcoreapp3.1\uberConsole.AssemblyInfo.cs
+C:\Users\Phellipe\Desktop\senai\c#\uberConsole\obj\Debug\netcoreapp3.1\uberConsole.dll
+C:\Users\Phellipe\Desktop\senai\c#\uberConsole\obj\Debug\netcoreapp3.1\uberConsole.pdb
+C:\Users\Phellipe\Desktop\senai\c#\uberConsole\obj\Debug\netcoreapp3.1\uberConsole.genruntimeconfig.cache
