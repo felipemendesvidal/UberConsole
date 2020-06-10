@@ -1,3 +1,6 @@
+//para usar delay
+using System.Threading.Tasks;
+
 namespace uberConsole
 {
     public class Usuario
@@ -26,5 +29,13 @@ namespace uberConsole
         public void Logout(){
             TokenLogin = "";
         }
+
+        //experimento
+        // public void tempo(){
+        //     var time = Task.Run( async delegate{
+        //             await Task.Delay(2000);
+        //             return 42;
+        //         });
+        // }
     }
 }
